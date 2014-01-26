@@ -14,16 +14,13 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
+I have a couch and a 15Mbit internet connection... come and enjoy the tranquility of the country side near the ocean in Ericeira
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
+* couch near Ericeira in Santo Isidoro [beWelcome.org](http://www.bewelcome.org/members/albatroz.jeremias) [CS](https://www.couchsurfing.org/profile.html?id=9IWRJIF)
 
 No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
 
 
 ## Have me crash on your couch
 Your next travels where you need a couch go in here, like:
-
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
 
